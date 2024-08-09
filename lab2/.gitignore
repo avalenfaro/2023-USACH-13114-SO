@@ -1,0 +1,6 @@
+*.out
+.vscode
+bin/*
+input_files
+test*.*
+lab1
